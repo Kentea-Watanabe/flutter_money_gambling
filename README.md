@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Demo
 
 ![flutter_money](https://user-images.githubusercontent.com/87839643/208289246-569500d3-71da-4084-bc42-38c0a4d106cb.gif)
+
+## Demo2
+![flutter_money_v2](https://user-images.githubusercontent.com/87839643/208295818-3b1db7c1-c683-4170-83b9-b85b2a97cd61.gif)
